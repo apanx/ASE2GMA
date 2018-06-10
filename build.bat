@@ -1,0 +1,1 @@
+pyinstaller ASE2GMA.py -F --icon="%cd%\RaRaRa.ico"
